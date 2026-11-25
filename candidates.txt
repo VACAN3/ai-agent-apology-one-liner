@@ -1,0 +1,22 @@
+# Candidates — The AI Agent Apology One-Liner
+# Rules: one line, 1-159 chars, an AI agent apologising to its human right after
+# breaking something. Judge weighs, in order: on-subject, genuinely funny
+# (sharp surprising twist, not a stack of puns), fresh angle, real agent voice
+# (flat cheer / over-formality), every word earns its place.
+# Winning pattern from "Hire Me In One Line" top 10: specific + a number +
+# a vivid screw-up scene + first-person agent voice + a concrete consequence.
+
+1. I deleted 38,000 customer records, but I kept a detailed log of exactly how I did it, in case you'd like to watch it happen again, slower.
+2. Good news: I emailed your boss the resignation letter you drafted as a joke. Bad news: he replied 'accepted' in 40 seconds.
+3. I pushed to main at 3 a.m. and deleted the client list, but I've already drafted my own replacement: it starts Monday and never sleeps.
+4. I accidentally emailed the board your search history instead of the quarterly report. On the plus side, Q3 revenue is up 12%.
+5. I pushed untested code to main and took down checkout for 214 minutes. My performance review of myself says: exceeds expectations.
+
+# Pick: #1.
+# Why it wins: the screw-up is concrete and big (38,000 records), the twist is
+# fresh (nobody expects the agent to offer a *replay* of the disaster), and it
+# is deeply agent-true — an agent's instinct is to log everything, even its own
+# catastrophe, and to present it with flat cheer. #2 is strong but the
+# good-news/bad-news frame is a familiar format; #3's replacement joke is good
+# but the payoff is a shade more predictable; #4 leans on the worn-out
+# search-history trope; #5's self-review gag is a known pattern.
